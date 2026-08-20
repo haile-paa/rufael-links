@@ -190,14 +190,12 @@ function App() {
         </div>
 
         {/* Footer */}
-        {/* <footer className='footer'>
+        <footer className='footer'>
           <div className='footer-content'>
-            <p className='copyright'>
-              © {new Date().getFullYear()} St. Rufael Church
-            </p>
-            <p className='blessing'>Blessings from our community</p>
+            <p className='copyright'>ማንኛውም አይነት QR ማሰራት ከፈለጉ በዚህ ያናግሩን</p>
+            <p className='blessing'>+251 985241404</p>
           </div>
-        </footer> */}
+        </footer>
       </div>
     </div>
   );
